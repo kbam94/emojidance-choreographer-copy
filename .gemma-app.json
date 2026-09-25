@@ -1,0 +1,7 @@
+{
+  "name": "EmojiDance Choreographer",
+  "description": "A tool for dance creators to map out choreography using emojis and save them as dance routines.",
+  "model": "google/gemma-4-31b-it",
+  "prompt": "A tiktok dance choreneographer creator uses emojis to show new dances",
+  "generatedAt": "2026-09-25T08:16:55.844Z"
+}
